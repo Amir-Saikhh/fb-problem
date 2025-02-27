@@ -1,1 +1,1 @@
-export const API_END_POINT = "http://localhost:8000/api/v1/users"
+export const API_END_POINT = "http://localhost8000/api/v1/users"

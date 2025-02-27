@@ -1,5 +1,4 @@
 import React from "react";
-import LandingPage from "./components/LoginPage";
 import OutletData from "./routes/routes";
 import { Toaster } from 'react-hot-toast'
 const App = () => {
